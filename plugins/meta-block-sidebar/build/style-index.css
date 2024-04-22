@@ -1,0 +1,23 @@
+.mbs-meta {
+	background-color: var(--wp--preset--color--background)
+}
+
+.mbs-meta label {
+	text-transform: none
+}
+
+.wp-block-ironnysh-meta-block-sidebar {
+	font-size: var(--wp--preset--font-size--small)
+}
+
+.wp-block-ironnysh-meta-block-sidebar > dt {
+	font-weight: 700
+}
+
+.wp-block-ironnysh-meta-block-sidebar > dd {
+	margin-inline-start: 0
+}
+
+.wp-block-ironnysh-meta-block-sidebar > dd + dt {
+	margin-block-start: 1rem
+}

@@ -1,0 +1,22 @@
+# CREDITS
+
+- Design by [Beatriz Fialho](https://github.com/beafialho)
+
+- [scruffian](https://github.com/scruffian)
+- [carolinan](https://github.com/carolinan)
+- [MaggieCabrera](https://github.com/MaggieCabrera)
+- [klaus-pixel](https://github.com/klaus-pixel)
+- [kimclowa8c](https://github.com/kimclowa8c)
+- [msmaniya1](https://github.com/msmaniya1)
+- [markus9312](https://github.com/markus9312)
+- [kafleg](https://github.com/kafleg)
+- [ashleyshaw](https://github.com/ashleyshaw)
+- [mkwpdev](https://github.com/mkwpdev)
+- [RobVanMaatwerkOnline](https://github.com/RobVanMaatwerkOnline)
+- [vaibhavagar](https://github.com/vaibhavagar)
+- [Mooore](https://github.com/Mooore)
+- [ajlende](https://github.com/ajlende)
+- [jeryj](https://github.com/jeryj)
+- [getdave](https://github.com/getdave)
+- [draganescu](https://github.com/draganescu)
+- [shail-mehta](https://github.com/shail-mehta)

@@ -1,0 +1,22 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "ironnysh/meta-block-sidebar",
+  "version": "1.0.1",
+  "title": "Meta Block Sidebar",
+  "category": "widgets",
+  "icon": "admin-home",
+  "description": "A custom block that displays the person's team name and the year they joined the company.",
+  "keywords": [
+    "meta",
+    "team name",
+    "joined"
+  ],
+  "supports": {
+    "html": false
+  },
+  "textdomain": "meta-block-sidebar",
+  "editorScript": "file:./index.js",
+  "style": "file:./style-index.css",
+  "render": "file:./render.php"
+}
