@@ -4,6 +4,8 @@ The code in this repository demonstrates how to use [WordPress Playground](https
 
 In this demo, we create a post that explains to the user how to update the data of a custom plugin.
 
+Read Ronny Shani's step-by-step tutorial on the WordPress Developer Blog: [How to use WordPress Playground for interactive demos](https://developer.wordpress.org/news/2024/04/25/how-to-use-wordpress-playground-for-interactive-demos/).
+
 ## Themes
 
 The [themes directory](/themes/) includes a customized copy of [Blue Note](https://wordpress.org/themes/blue-note/), a community theme developed by WordPress contributors.
